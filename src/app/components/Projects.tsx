@@ -63,7 +63,7 @@ const projects = [
       'This project is a Deepfake Detection System built using Python. It allows users to upload a video through a simple GUI and automatically analyzes it for signs of manipulation using AI-powered facial recognition.',
     images: [
       '/Images/Deepfake.webp',
-      '/Images/Deepfake Video Detector.png',
+      '/Images/DeepfakeVideoDetector.png',
     ],
     tech: ['Python'],
     gradient: 'from-orange-500 to-red-500',
@@ -75,7 +75,7 @@ const projects = [
     description:
       'This project is an AI-based chess game built using Python and Pygame, where the player competes against a computer opponent using the minimax algorithm.',
     images: [
-      '/Images/ai chess .webp',
+      '/Images/aichess1.webp',
       '/Images/AiChess.png',
     ],
     tech: ['Python'],
@@ -88,7 +88,7 @@ const projects = [
     description:
       'This project is a Personal Assistant AI built in Python with a simple Tkinter GUI. It can listen to voice commands or accept typed input to perform tasks like playing YouTube videos or telling jokes.',
     images: [
-      '/Images/assistant chatbot.avif',
+      '/Images/assistantchatbot1.avif',
       '/Images/AssistantChatBot.png',
     ],
     tech: ['Python'],
