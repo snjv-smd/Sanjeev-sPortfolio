@@ -10,8 +10,8 @@ const projects = [
     description:
       'Engineered an end-to-end data analytics pipeline by consolidating disparate data sources using Python (Pandas) and executing complex SQL queries for large-scale data aggregation. To translate this raw data into actionable business insights, I designed an interactive Power BI dashboard utilizing custom DAX measures, dynamic filtering, and an intuitive user interface to visualize key performance indicators and historical trends.',
     images: [
-      'Images/AnualRollingSales1.png',
-      'Images/AnualRollingSales2.png'
+      '/Images/AnualRollingSales1.png',
+      '/Images/AnualRollingSales2.png'
     ],
     tech: ['Python (Pandas)', 'SQL', 'Excel','Power BI'],
     gradient: 'from-purple-500 to-pink-500',
@@ -23,9 +23,9 @@ const projects = [
     description:
       'Cleaned and processed raw emergency dispatch records using Python and Pandas. I built a data pipeline to standardize inconsistent text entries, filter out incomplete records, and extract specific geographic zones from unstructured address strings. This transformed messy, real-world data into a structured dataset ready for dynamic visualization in Tableau.',
     images: [
-      'Images/911Report1.png',
-      'Images/911Report2.png',
-      'Images/911Report3.png',
+      '/Images/911Report1.png',
+      '/Images/911Report2.png',
+      '/Images/911Report3.png',
     ],
     tech: ['Python (Pandas)', 'Excel', 'Tableau'],
     gradient: 'from-blue-500 to-cyan-500',
@@ -37,7 +37,7 @@ const projects = [
     description:
       'Backpack Slouch Detection is an IoT-enabled health intervention system that prevents Musculoskeletal Disorders by utilizing real-time sensor fusion to detect unsafe slouching angles and backpack loads exceeding 15% of the users body weight. We engineered a full-stack solution bridging Arduino hardware with a native Android app.',
     images: [
-      'Images/backpack.jpg'
+      '/Images/backpack.jpg'
     ],
     tech: ['Kotlin', 'Arduino'],
     gradient: 'from-teal-500 to-green-500',
@@ -49,8 +49,8 @@ const projects = [
     description:
       'Developed a Java-based client-server application using the MVC pattern and RMI callbacks for real-time interaction , implementing full CRUD and search functionalities with JSON-based data storage and messaging via Jackson 3.1.0 , while ensuring system integrity through manual server state management and concurrency controls to prevent duplicate adoptions.',
     images: [
-      'Images/AnimalShelter.png',
-      'Images/AnimalCustomer.png',
+      '/Images/AnimalShelter.png',
+      '/Images/AnimalCustomer.png',
     ],
     tech: ['Java', 'Json'],
     gradient: 'from-orange-500 to-red-500',
@@ -62,8 +62,8 @@ const projects = [
     description:
       'This project is a Deepfake Detection System built using Python. It allows users to upload a video through a simple GUI and automatically analyzes it for signs of manipulation using AI-powered facial recognition.',
     images: [
-      'Images/Deepfake.webp',
-      'Images/Deepfake Video Detector.png',
+      '/Images/Deepfake.webp',
+      '/Images/Deepfake Video Detector.png',
     ],
     tech: ['Python'],
     gradient: 'from-orange-500 to-red-500',
@@ -75,8 +75,8 @@ const projects = [
     description:
       'This project is an AI-based chess game built using Python and Pygame, where the player competes against a computer opponent using the minimax algorithm.',
     images: [
-      'Images/ai chess .webp',
-      'Images/AiChess.png',
+      '/Images/ai chess .webp',
+      '/Images/AiChess.png',
     ],
     tech: ['Python'],
     gradient: 'from-orange-500 to-red-500',
@@ -88,8 +88,8 @@ const projects = [
     description:
       'This project is a Personal Assistant AI built in Python with a simple Tkinter GUI. It can listen to voice commands or accept typed input to perform tasks like playing YouTube videos or telling jokes.',
     images: [
-      'Images/assistant chatbot.avif',
-      'Images/AssistantChatBot.png',
+      '/Images/assistant chatbot.avif',
+      '/Images/AssistantChatBot.png',
     ],
     tech: ['Python'],
     gradient: 'from-orange-500 to-red-500',
