@@ -62,7 +62,7 @@ const projects = [
     description:
       'This project is a Deepfake Detection System built using Python. It allows users to upload a video through a simple GUI and automatically analyzes it for signs of manipulation using AI-powered facial recognition.',
     images: [
-      '/Images/Deepfake.webp',
+      '/Images/deepfake.webp',
       '/Images/DeepfakeVideoDetector.png',
     ],
     tech: ['Python'],
